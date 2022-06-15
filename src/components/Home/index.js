@@ -64,6 +64,16 @@ const Home = () => {
             Web Developer
           </h1>
           <h2>Front End Developer</h2>
+          <div
+            to="/contact"
+            className="flat-button"
+            style={{ marginRight: '20px' }}
+            onClick={(event) =>
+              (window.location.href = `https://nikhilalladii.github.io/projectimages/NagarajuAlladi_Resume.pdf`)
+            }
+          >
+            &nbsp;&nbsp;&nbsp;RESUME&nbsp;&nbsp;&nbsp;
+          </div>
           <Link to="/contact" className="flat-button">
             CONTACT ME
           </Link>
