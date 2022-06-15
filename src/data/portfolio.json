@@ -1,34 +1,34 @@
 {
-    "portfolio": [
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        }
-    ]
+  "portfolio": [
+    {
+      "cover": "https://raw.githubusercontent.com/NikhilAlladii/projectimages/main/Screenshot_48.png",
+      "title": "CRYPTOVERSE",
+      "description": "Crypto Details,News,Crypto History",
+      "url": "https://nagaraju-alladicryptoverse.netlify.app/"
+    },
+    {
+      "cover": "https://raw.githubusercontent.com/NikhilAlladii/projectimages/main/Screenshot_49.png",
+      "title": "COVID TRACKER",
+      "description": "Country,State wise Covid Details",
+      "url": "https://nagaraju-alladicovidtracker.netlify.app/"
+    },
+    {
+      "cover": "https://raw.githubusercontent.com/NikhilAlladii/projectimages/main/Screenshot_50.png",
+      "title": "Machinehack Enterprise",
+      "description": "Dashboard Page,Job Preview,Admin View",
+      "url": "https://enterprise.machinehack.com/dashboard"
+    },
+    {
+      "cover": "https://raw.githubusercontent.com/NikhilAlladii/projectimages/main/Screenshot_51.png",
+      "title": "CMS MACHINEHACK",
+      "description": "Creating Events(Enterprise Edition)",
+      "url": "https://development-cms-machinehack.netlify.app/events"
+    },
+    {
+      "cover": "https://raw.githubusercontent.com/NikhilAlladii/projectimages/main/Screenshot_52.png",
+      "title": "JOB PORTAL",
+      "description": "Grassroots Job Portal",
+      "url": "https://jobboard.grssl.net/"
+    }
+  ]
 }

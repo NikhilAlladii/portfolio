@@ -12,7 +12,7 @@ import {
   faHome,
   faUser,
   faEnvelope,
-  // faSuitcase,
+  faSuitcase,
 } from '@fortawesome/free-solid-svg-icons'
 import { Link, NavLink } from 'react-router-dom'
 
@@ -35,13 +35,13 @@ const Sidebar = () => {
         <NavLink activeclassname="active" className="about-link" to="/about">
           <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
         </NavLink>
-        {/* <NavLink
+        <NavLink
           activeclassname="active"
           className="portfolio-link"
           to="/portfolio"
         >
           <FontAwesomeIcon icon={faSuitcase} color="#4d4d4e" />
-        </NavLink> */}
+        </NavLink>
         <NavLink
           activeclassname="active"
           className="contact-link"
